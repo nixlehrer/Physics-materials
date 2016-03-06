@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+  <directory name="./Physics">
+    <file name="Ashcroft.pdf" size="168255382"></file>
+    <file name="Condensed Matter Field Theory.pdf" size="7522032"></file>
+    <directory name="GRE Physics" size="340">
+      <file name="Equationsheet-Faucett.pdf" size="198522"></file>
+      <file name="GRE-notes.pdf" size="188264"></file>
+      <file name="Physics GRE 1996.pdf" size="1371958"></file>
+      <file name="Word list_GRE Physics.pdf" size="163374"></file>
+      <file name="mft_samp_questions_physics.pdf" size="267063"></file>
+      <file name="studysheet.pdf" size="205817"></file>
+      <file name="北大gre physics.pdf" size="1548177"></file>
+    </directory>
+    <file name="Icon" size="0"></file>
+    <file name="ZJU Computational Physics.pdf" size="4043902"></file>
+    <directory name="实验室" size="544">
+      <file name="E. BASCONES (Universidad Autonoma de Madrid).pdf" size="2971258"></file>
+      <file name="Optical measurements of layered dichalcogenides.pdf" size="1200092"></file>
+      <directory name="Presentation" size="1360">
+        <file name="1-1000.png" size="320017"></file>
+        <file name="1DCDW.png" size="85759"></file>
+        <file name="1Tand2H.png" size="221872"></file>
+        <file name="2DCDW.png" size="183283"></file>
+        <file name="CuxTiSe2.png" size="465951"></file>
+        <file name="FMLevel.png" size="86300"></file>
+        <file name="MoSe2.png" size="234944"></file>
+        <file name="Pd.png" size="184991"></file>
+        <file name="Raman.png" size="200895"></file>
+        <file name="TiSe2.aux" size="6569"></file>
+        <file name="TiSe2.bbl" size="1455"></file>
+        <file name="TiSe2.blg" size="1072"></file>
+        <file name="TiSe2.log" size="92613"></file>
+        <file name="TiSe2.nav" size="1798"></file>
+        <file name="TiSe2.out" size="0"></file>
+        <file name="TiSe2.pdf" size="3061314"></file>
+        <file name="TiSe2.png" size="185317"></file>
+        <file name="TiSe2.snm" size="479"></file>
+        <file name="TiSe2.synctex.gz" size="19265"></file>
+        <file name="TiSe2.tex" size="8646"></file>
+        <file name="TiSe2.toc" size="40"></file>
+        <file name="Vintage.png" size="562337"></file>
+        <file name="bandgap.png" size="105597"></file>
+        <file name="dimensionality.png" size="155739"></file>
+        <file name="drhodT.png" size="77631"></file>
+        <file name="inset.pdf" size="129742"></file>
+        <file name="main.pdf" size="48422"></file>
+        <file name="mc.png" size="111465"></file>
+        <file name="mybib.bib" size="4929"></file>
+        <file name="pressure.png" size="190775"></file>
+        <file name="reaction.png" size="75786"></file>
+        <file name="rho-T.png" size="71599"></file>
+        <file name="sc.png" size="100039"></file>
+        <file name="screal.png" size="179027"></file>
+        <file name="screenshot001.png" size="4039"></file>
+        <file name="temp-thick.png" size="181399"></file>
+      </directory>
+      <directory name="TiSe2" size="850">
+        <file name="1DCDW.png" size="85759"></file>
+        <file name="2DCDW.png" size="175550"></file>
+        <file name="FMLevel.png" size="86300"></file>
+        <file name="MoSe2.png" size="234944"></file>
+        <file name="Pd.png" size="184991"></file>
+        <file name="Raman.png" size="200895"></file>
+        <file name="TiSe2.png" size="183427"></file>
+        <file name="TiSe2sc.png" size="391470"></file>
+        <file name="TiSe2报告.tex" size="16852"></file>
+        <file name="dimensionality.png" size="155739"></file>
+        <file name="drhodT.png" size="77631"></file>
+        <file name="inset.pdf" size="129742"></file>
+        <file name="main.pdf" size="48422"></file>
+        <file name="mc.png" size="111465"></file>
+        <file name="mybib.bib" size="4929"></file>
+        <file name="pressure.png" size="190775"></file>
+        <file name="rho-T.png" size="71599"></file>
+        <file name="sc.png" size="100039"></file>
+        <file name="screal.png" size="179027"></file>
+        <file name="temp-thick.png" size="181399"></file>
+        <file name="~$actice.docx" size="162"></file>
+      </directory>
+      <file name="TiSe2 单晶制备 .docx" size="1022815"></file>
+      <file name="Topological Invariant and the Quantization of the Hall Conductance.pdf" size="655518"></file>
+      <file name="XRD.pdf" size="5105459"></file>
+      <directory name="组会" size="340">
+        <file name="Majorana fermions in Condensed Matter Physics-方涵彦.ppt" size="1961472"></file>
+        <file name="WSMs in NbP-王震.ppt" size="27124736"></file>
+        <file name="Winter-part-1-FengDL.pdf" size="57667509"></file>
+        <file name="yxh 20151010 TiSe2 .pptx" size="9425921"></file>
+        <file name="法国IESC.ppt" size="11571200"></file>
+        <file name="唐泽军 组会报告.pptx" size="6973426"></file>
+        <file name="秋季物理会议2015-报告.ppt" size="7353344"></file>
+      </directory>
+      <file name="镀膜.docx" size="15555"></file>
+      <file name="磁化率.doc" size="182784"></file>
+      <file name="热电势综述.doc" size="361984"></file>
+      <file name="四探针方法测电阻率.ppt" size="310784"></file>
+      <file name="电阻率测量（四引线法 ）.pdf" size="1053482"></file>
+    </directory>
+    <directory name="微机原理" size="510">
+      <file name="chapter1.pptx" size="2445111"></file>
+      <file name="chapter10.pptx" size="362975"></file>
+      <file name="chapter11.pptx" size="285498"></file>
+      <file name="chapter12.pptx" size="368320"></file>
+      <file name="chapter2.pptx" size="2549156"></file>
+      <file name="chapter3.pptx" size="850165"></file>
+      <file name="chapter4.pptx" size="674539"></file>
+      <file name="chapter5.pptx" size="1418965"></file>
+      <file name="chapter6.pptx" size="276785"></file>
+      <file name="chapter7.pptx" size="866528"></file>
+      <file name="chapter8.pptx" size="1058121"></file>
+      <file name="chapter9.pptx" size="1177309"></file>
+    </directory>
+    <directory name="量子力学II" size="714">
+      <file name="AB effect.pdf" size="1433804"></file>
+      <file name="Adiabatic approximation.pdf" size="1358728"></file>
+      <file name="Berry phase II.pdf" size="698572"></file>
+      <file name="Berry phase.pdf" size="1396337"></file>
+      <file name="Description of this course.pdf" size="242489"></file>
+      <file name="Harmonic oscillator.pdf" size="3917268"></file>
+      <file name="Homework I .pdf" size="71750"></file>
+      <file name="Homework II.pdf" size="864403"></file>
+      <file name="Homework IV.pdf" size="384637"></file>
+      <file name="Homework V.pdf" size="30964"></file>
+      <file name="Path integral.pdf" size="5009509"></file>
+      <file name="Quantum Hall Effects.pdf" size="3440465"></file>
+      <file name="Quantum computing.pdf" size="2446466"></file>
+      <file name="Relativistic QM.pdf" size="1978644"></file>
+      <file name="Review I.pdf" size="1552592"></file>
+      <file name="ReviewII.pdf" size="700524"></file>
+      <file name="Scattering theory.pdf" size="3659523"></file>
+      <file name="朗道能级.pdf" size="7956889"></file>
+    </directory>
+    <directory name="引力论与宇宙论" size="680">
+      <file name="7.pdf" size="460315"></file>
+      <file name="Ch6.pdf" size="447020"></file>
+      <file name="Cosmology.pdf" size="2993670"></file>
+      <file name="General Relativity.pdf" size="34529393"></file>
+      <file name="Gravitation and Cosmology.pdf" size="34533396"></file>
+      <file name="SEMI-RIEMANNIAN GEOMETRY.pdf" size="10366236"></file>
+      <file name="The Large-Scale Structure of Spacetime.pdf" size="15755766"></file>
+      <file name="spacetime and geometry.pdf" size="31455362"></file>
+      <file name="引论.pdf" size="1261962"></file>
+      <file name="第九章 黑洞.pdf" size="1415815"></file>
+      <file name="第八章 粒子在球对称引力场中的运动.pdf" size="901491"></file>
+      <file name="宇宙学.pdf" size="3159697"></file>
+      <file name="黎曼几何.pdf" size="535307"></file>
+      <file name="引力理论补充.pdf" size="314877"></file>
+      <file name="引力论和宇宙论.pdf" size="21110627"></file>
+      <file name="仿射空间中的张量分析.pdf" size="974596"></file>
+      <file name="第五章：相对论的引力理论.pdf" size="677034"></file>
+    </directory>
+    <directory name="热力学与统计物理" size="646">
+      <file name="CHAPTER1.pdf" size="653865"></file>
+      <file name="CHAPTER10.pdf" size="240291"></file>
+      <file name="CHAPTER2.pdf" size="198871"></file>
+      <file name="CHAPTER3.pdf" size="111443"></file>
+      <file name="Huang, Kerson - 1987 - Statistical Mechanics 2Ed (Wiley)(T)(506S).pdf" size="17059555"></file>
+      <file name="Q Stat Mech - 1.pdf" size="4862203"></file>
+      <file name="Q Stat Mech - 2.pdf" size="2141972"></file>
+      <file name="Q Stat Mech - 3.pdf" size="2098030"></file>
+      <file name="Q Stat Mech - 4.pdf" size="1028320"></file>
+      <file name="Q Stat Mech - 5.pdf" size="1898518"></file>
+      <file name="Q Stat Mech - 6.pdf" size="2790738"></file>
+      <file name="Q Stat Mech - 7.pdf" size="1346813"></file>
+      <file name="Statmech_solutions.pdf" size="1263624"></file>
+      <file name="汪志诚.pdf" size="51320065"></file>
+      <file name="苏汝铿.pdf" size="13601172"></file>
+      <file name="热力学与统计物理学.pdf" size="12990542"></file>
+    </directory>
+    <file name="电动力学简明教程.pdf" size="7919321"></file>
+    <directory name="凝聚态物理近现代实验方法" size="136">
+      <file name="02 SPM.ppt" size="24070656"></file>
+    </directory>
+  </directory>
+  <report>
+    <directories>10</directories>
+    <files>150</files>
+  </report>
+</tree>
