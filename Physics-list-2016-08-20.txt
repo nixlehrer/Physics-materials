@@ -1,0 +1,15 @@
+.
+├── [5.7M]  A Primer in Density Functional Theory.pdf
+├── [160M]  Ashcroft.pdf
+├── [7.2M]  Condensed Matter Field Theory.pdf
+├── [ 15M]  Density-Functional Theory of Atoms and Molecules.pdf
+├── [525M]  Electronic structure basic theory and practical methods.pdf
+├── [1.5M]  Group Theory in Solid State Physics I.pdf
+├── [   0]  Physics-list-2016-08-20.txt
+├── [2.6M]  The ABC of DFT.pdf
+├── [ 29M]  固体物理基础.pdf
+├── [ 23M]  固体物理导论.pdf
+├── [8.5M]  现代固体物理学导论.pdf
+└── [ 54M]  凝聚态物理学（上卷）.pdf
+
+ 831M used in 0 directories, 12 files
